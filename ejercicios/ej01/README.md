@@ -27,3 +27,8 @@ En este ejercicio se debe:
 
 La entrega se realiza directamente en el repositorio, al agregar,
 *commitear* y *pushear* los cambios.
+
+### Dudas
+Quisiera saber si esto ese lo que se pide en el ejercicio 1
+
+
